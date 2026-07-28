@@ -181,6 +181,18 @@ header ul a{
   color:black;
 }
 
+@media (max-width: 576px) { 
+   
+    .main-title .title h2{
+       position: absolute;
+         font-size: 2.5rem;
+         margin-bottom: 0;
+}
+     .main-title .title h3{ 
+      font-size: 2rem;
+       color: #cccccc00;   
+}
 
+}
 
 
